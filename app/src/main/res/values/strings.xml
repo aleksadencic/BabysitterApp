@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BebysitterApplication</string>
+    <string name="tvCaption">Babysitter App</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="btn_log_in">Log In</string>
+    <string name="btn_caption_image">Caption image</string>
+    <string name="txtUsername">Username</string>
+    <string name="txtPassword">Password</string>
+    <string name="cbPassword">View password</string>
+    <string name="img_baby_login">baby_logIn</string>
+    <string name="baby_sign_up">Baby sign up</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="parent">Parent</string>
+    <string name="babysitter">Babysitter</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="facebook_app_id">444701132717460</string>
+    <string name="fb_login_protocol_scheme">fb444701132717460</string>
+
+</resources>
